@@ -7,5 +7,17 @@ window.addEventListener('message', (event) => {
         }else{
             $('.phoneRoot').css('display','none')
         }
+    } else if (data.action = 'sendMessage')
+    {
+    } else if (data.action = 'sendMessage')
+    {
+    } else if (data.action = 'sendMessage')
+    {
+    } else if (data.action = 'sendMessage')
+    {
+    } else if (data.action = 'sendMessage')
+    {
+    } else if (data.action = 'sendMessage')
+    {
     }
 })
